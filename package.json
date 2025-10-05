@@ -1,0 +1,13 @@
+{
+  "name": "shorturl_app",
+  "version": "1.0.0",
+  "main": "url-short.js",
+  "scripts": {
+    "dev" : "node --watch app.js",
+    "start" : "node url-short.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
